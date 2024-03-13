@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\t.vlamis\.nuget\packages\microsoft.extensions.configuration\9.0.0-preview.1.24080.9\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a935605c_002D54f3_002D4e9c_002Dbac3_002Ddb2528cb8927/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AttemptToUpdateATaskWithoutProvidingARequiredFieldNameOrDescription_" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A9D84EAE-9BB4-467E-ADBF-85E977E4462A::net6.0::TestAssignment.Features.Project_ManagementFeature.AttemptToUpdateATaskWithoutProvidingARequiredFieldNameOrDescription_&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>

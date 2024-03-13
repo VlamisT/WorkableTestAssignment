@@ -1,0 +1,11 @@
+{
+  "BrowserConfig": {
+    "BrowserType": "Chrome",
+    "HeadlessMode": "false"
+  },
+  "ApplicationConfig": {
+    "Url": "https://pm-tool-e63fa77e3353.herokuapp.com/",
+    "Password": "qwerty123",
+    "Email": "verified@example.com"
+  }
+}
